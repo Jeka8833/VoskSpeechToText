@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpeechToText.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpeechToText_main_jar</output-path>
+    <root id="archive" name="SpeechToText.main.jar">
+      <element id="module-output" name="SpeechToText.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.9/8a432c1d6825781e21a02db2e2c33c5fde2833b9/gson-2.8.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/5.10.0/7cf4c87dd802db50721db66947aa237d7ad09418/jna-5.10.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.alphacephei/vosk/0.3.33/77239b4676a2f5877d7cb193ffd4a8065cef271/vosk-0.3.33.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/info.picocli/picocli/4.6.2/2c4196c67c0bc65f7a86cba64787b10d61c3cc63/picocli-4.6.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
